@@ -5,9 +5,14 @@
 ![Resultado do projeto](./src/assets/locadora-api.png)
 
 <h4 align="center"><a href="https://locadora-api-wda.vercel.app/#/">Clique aqui para acessar minha locadora</a></h4><br>
-<h4 align="center">nome: admin</h4>
-<h4>senha: 12345678</h4>
 
+```
+nome: admin
+```
+
+```
+senha: 12345678
+```
 ## 🌳 Projeto
 
 O objetivo do portfólio é colocar meus projetos, informações sobre mim, informar meus conhecimentos, serviços e meu currículo, para a visualização das pessoas/empresas.
