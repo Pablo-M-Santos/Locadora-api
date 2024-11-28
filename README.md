@@ -5,7 +5,7 @@
 ![Resultado do projeto](./src/assets/locadora-api.png)
 
 <h4 align="center"><a href="https://locadora-api-wda.vercel.app/#/">Clique aqui para acessar minha locadora</a></h4><br>
-<h4>nome: admin</h4><br>
+<h4 align="center">nome: admin</h4>
 <h4>senha: 12345678</h4>
 
 ## 🌳 Projeto
