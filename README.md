@@ -1,41 +1,34 @@
-# LocadoraQuasar (locadora)
+<h1 align="center">
+  💻<br>Locadora API -  Pablo Santos
+</h1>
 
-A Quasar Project
+![Resultado do projeto](./src/assets/locadora-api.png)
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+<h4 align="center"><a href="https://locadora-api-wda.vercel.app/#/">Clique aqui para acessar minha locadora</a></h4><br>
+<h4>nome: admin</h4><br>
+<h4>senha: 12345678</h4>
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+## 🌳 Projeto
 
+O objetivo do portfólio é colocar meus projetos, informações sobre mim, informar meus conhecimentos, serviços e meu currículo, para a visualização das pessoas/empresas.
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+## 📃 Seções
 
+O portfólio é composto por 6 seções diferentes:
 
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
+- Seção Home: \*\* Nele temos uma breve apresentação e além disso, temos botão para baixar meu currículo;
+- Seção Quem sou: \*\* Nessa seção tem uma breve descrição dizendo sobre mim;
+- Seção Formação: \*\* Aqui apresenta meus conhecimentos e formações como desenvolvedor;
+- Seção Projetos: \*\* Apresenta alguns projetos organizados e com link direto para os respectivos códigos no GitHub;
+- Seção Serviços: \*\* Exibe através de cartões alguns serviços em que possuo conhecimentos;
+- Seção Contato: \*\* Nele temos links de contato e informações;
 
+## 👨🏽‍💻 Tecnologias utilizadas
 
+Para o desenvolvimento do portfólio usei as seguintes tecnologias:
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+- Visual Studio Code;
+- FIGMA;
+- HTML;
+- Css;
+- JavaScript ;
