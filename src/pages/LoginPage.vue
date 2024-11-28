@@ -26,7 +26,7 @@
           </div>
 
           <div class="container-interno">
-            <img src="src/assets/logo.png" />
+            <img src="@/assets/logo.png"  alt="Logo"/>
             <h2>Seja bem-vindo!</h2>
           </div>
         </div>
