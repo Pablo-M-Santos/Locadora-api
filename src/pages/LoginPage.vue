@@ -26,8 +26,9 @@
           </div>
 
           <div class="container-interno">
+            <img src="../assets/"  alt="Logo"/>
             <h2>Seja bem-vindo!</h2>
-          </div>
+          </div>z
         </div>
       </q-page>
     </q-page-container>
